@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TestSignalR.Database\TestSignalR.Database.csproj" />
+  </ItemGroup>
+
 </Project>
